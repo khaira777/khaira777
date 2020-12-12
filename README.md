@@ -1,15 +1,17 @@
 <div align="center">
-<h2> 👋 Hello there, I'M GURKIRAT!</h2>
+<h2> 👋 Hello there, I'm GURKIRAT!</h2>
 </div>
 
 <div align="center">
-I love web developement. 👨‍💻  Checkout my tournament website [TORNADO🌪️](https://tornado-runnergy.herokuapp.com/) that I made with my Runnergy group in November 2020. This is made using Express, Node.JS and MongoDB.
+I love 👨‍💻 web developement. Checkout my tournament website 
+<a href="https://tornado-runnergy.herokuapp.com/" target="_blank">TORNADO🌪️</a>
+ that I made with my Runnergy group in November 2020. This is made using Express, Node.JS and MongoDB.
 
 
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=khaira777&theme=<THEME_NAME>" />-->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=khaira777&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=khaira777&count_private=true&theme=tokyonight&showicons=true)]()<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khaira777&langs_count=5&theme=tokyonight)]()
 
 
