@@ -6,7 +6,7 @@
 I love 👨‍💻 web developement. Checkout my tournament website 
 <a href="https://tornado-runnergy.herokuapp.com/" target="_blank">TORNADO🌪️</a>
  that I made with my Runnergy group in November 2020. This is made using Express, Node.JS and MongoDB.
-
+---
 
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=khaira777&theme=<THEME_NAME>" />-->
@@ -23,7 +23,6 @@ I love 👨‍💻 web developement. Checkout my tournament website
 <a href="https://www.instagram.com/gurkirat_khaira/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
-👋
 
 <!--
 **khaira777/khaira777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
