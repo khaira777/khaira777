@@ -13,7 +13,7 @@ I love 👨‍💻 web developement. Checkout my tournament website
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=khaira777&theme=<THEME_NAME>" />-->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=khaira777&count_private=true&theme=tokyonight&showicons=true)]()<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khaira777&langs_count=5&theme=tokyonight)]()
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khaira777&langs_count=5&theme=tokyonight)]()-->
 
 
 ---
