@@ -7,18 +7,18 @@ I am familiar with:
  
 - C#
 - C
-- <code>
+<code>
 <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
- </code>
-- <code>
+</code>
+<code>
 <img alt="Java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>
-- <code>
+<code>
 <img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>
-- <code>
+<code>
 <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
- </code>
+</code>
 - MEAN stack 👨‍💻
 
  Checkout tournament website 
