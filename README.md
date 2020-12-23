@@ -28,6 +28,8 @@ I am familiar with:
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=khaira777&theme=<THEME_NAME>" />-->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=khaira777&count_private=true&theme=tokyonight&showicons=true)]()<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaira777&layout=compact)](https://github.com/khaira777/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khaira777)](https://github.com/khaira777/github-readme-stats)
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khaira777&langs_count=5&theme=tokyonight)]()-->
 
 
