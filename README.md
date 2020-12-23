@@ -4,12 +4,23 @@
 
 <div align="center">
 I am familiar with:
- - C#
- - C
- - C++
- - Java
- - Python
- - MEAN stack
+ 
+- C#
+- C
+- [<code>
+<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+ </code>]
+- [<code>
+<img alt="Java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+</code>]
+- [<code>
+<img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>]
+- [<code>
+<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ </code>]
+- MEAN stack 👨‍💻
+
  Checkout tournament website 
 <a href="https://tornado-runnergy.herokuapp.com/" target="_blank">TORNADO🌪️</a>
  that I made with my Runnergy group in November 2020. This is made using Express, Node.JS and MongoDB.
