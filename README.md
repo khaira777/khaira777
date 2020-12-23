@@ -6,7 +6,7 @@
 I am familiar with:
  
 - C#
-- C
+<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <code>
 <img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </code>
@@ -17,7 +17,7 @@ I am familiar with:
 <img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>
 <code>
-<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </code>
 - MEAN stack 👨‍💻
 
