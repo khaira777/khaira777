@@ -4,19 +4,19 @@
 
 <div align="center">
 I am familiar with:
- 
-<img alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img alt="Java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-<img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-<img alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img alt="Bootstrap" width="26px" src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
-<img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img alt="Nodejs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img alt="npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<br>
+<img alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
+<img alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+<img alt="Java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"> 
+<img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"> 
+<img alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img alt="Bootstrap" width="26px" src="https://img.icons8.com/color/32/000000/bootstrap.png"/> 
+<img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img alt="Nodejs" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img alt="npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/> 
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
  Checkout tournament website 
 <a href="https://tornado-runnergy.herokuapp.com/" target="_blank">TORNADO🌪️</a>
