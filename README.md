@@ -5,16 +5,17 @@
 <div align="center">
 I am familiar with:
 <br>
-<img alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
+<img alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img alt="Java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+<img alt="Python" width="30px" src="https://img.icons8.com/color/240/000000/python.png"> 
 <img alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
 <img alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
-<img alt="Java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"> 
-<img alt="Python" width="30px" src="https://img.icons8.com/color/240/000000/python.png"> 
 <img alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
 <img alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
 <img alt="Bootstrap" width="30px" src="https://img.icons8.com/color/32/000000/bootstrap.png"/> 
 <img alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-<img alt="Nodejs" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img alt="Nodejs" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img alt="React" width="30px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img alt="npm" width="30px" src="https://img.icons8.com/color/48/000000/npm.png"/> 
 <img alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
