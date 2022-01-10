@@ -1,9 +1,8 @@
 <div align="center">
-<h2> 👋 Hello there, I'm GURKIRAT!</h2>
+<h2> 👋 Hello there!</h2>
 </div>
 
 <div align="center">
-I am familiar with:
 <br>
 <img alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 <img alt="Java" width="30px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
@@ -18,7 +17,7 @@ I am familiar with:
 <img alt="React" width="30px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img alt="npm" width="30px" src="https://img.icons8.com/color/48/000000/npm.png"/> 
 <img alt="MongoDB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-
+<br>
  Checkout tournament website 
 <a href="https://tornado-runnergy.herokuapp.com/" target="_blank">TORNADO🌪️</a>
  that I made with my Runnergy group in November 2020. This is made using Express, Node.JS and MongoDB.
