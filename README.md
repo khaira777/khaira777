@@ -1,6 +1,6 @@
 <div align="center">
 <h2> 👋 Hello there! | <i> 👉 Connect with me on linkedin: </i> 
-<a href="https://www.linkedin.com/in/gurkirat-khaira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></h2>
+<a href="https://www.linkedin.com/in/gurkiratkhaira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></h2>
 </div>
 <!--
 <div align="center">
